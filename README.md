@@ -10,7 +10,7 @@ SLAM을 통해 생성한 맵을 Path Planning에 사용하기 위해 이미지 �
 1. 이미지 색상 변경<br/> 
 ![image](https://github.com/user-attachments/assets/1cd833a1-acc1-48de-867b-22ae712fc9f5)
 
-2. 그리드화
+2. 그리드화<br/> 
 [그리드 영역 10일때]
 ![image](https://github.com/user-attachments/assets/58486abf-be6a-4cca-adff-c795dba7619e)
 
@@ -20,5 +20,6 @@ SLAM을 통해 생성한 맵을 Path Planning에 사용하기 위해 이미지 �
 3. 0과 1의 탐색 구역 생성
 ![image](https://github.com/user-attachments/assets/37b60beb-1343-4c34-8809-6cee9fcec9a0)
 
-정상동작은 모두 가능!
-가장 잘 동작하는 코드 = change png.py / grid_map_test2(very).py / grid_map_binary.py[가장 최종]
+정상동작은 모두 가능!<br/> 
+##[가장 잘 동작하는 코드] <br/> 
+change png.py / grid_map_test2(very).py / grid_map_binary.py[가장 최종]
