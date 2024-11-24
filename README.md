@@ -7,10 +7,10 @@ SLAM을 통해 생성한 맵을 Path Planning에 사용하기 위해 이미지 �
 
 ---
 
-1. 이미지 색상 변경<br/> 
+1. 이미지 색상 변경<br/>
 ![image](https://github.com/user-attachments/assets/1cd833a1-acc1-48de-867b-22ae712fc9f5)
 
-2. 그리드화<br/> 
+2. 그리드화<br/>
 [그리드 영역 10일때]
 ![image](https://github.com/user-attachments/assets/58486abf-be6a-4cca-adff-c795dba7619e)
 
