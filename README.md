@@ -21,5 +21,5 @@ SLAM을 통해 생성한 맵을 Path Planning에 사용하기 위해 이미지 �
 ![image](https://github.com/user-attachments/assets/37b60beb-1343-4c34-8809-6cee9fcec9a0)
 
 정상동작은 모두 가능!<br/> 
-##[가장 잘 동작하는 코드] <br/> 
+## [가장 잘 동작하는 코드] 
 change png.py / grid_map_test2(very).py / grid_map_binary.py[가장 최종]
