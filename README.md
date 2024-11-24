@@ -17,5 +17,8 @@ SLAM을 통해 생성한 맵을 Path Planning에 사용하기 위해 이미지 �
 [그리드 영역 1일때]
 ![image](https://github.com/user-attachments/assets/df4fe345-502c-4cd8-ad94-9f8352235a3c)
 
-4. 0과 1의 탐색 구역 생성
+3. 0과 1의 탐색 구역 생성
 ![image](https://github.com/user-attachments/assets/37b60beb-1343-4c34-8809-6cee9fcec9a0)
+
+정상동작은 모두 가능!
+가장 잘 동작하는 코드 = change png.py / grid_map_test2(very).py / grid_map_binary.py[가장 최종]
